@@ -17,9 +17,9 @@ Sou apaixonado por desafios na área de tecnologia, sempre buscando aprimorar me
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B0082)](mailto:enrique@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B0082)](https://www.linkedin.com/in/enrique-fernandes/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B0082)](https://www.instagram.com/enrique/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B0082)](mailto:enriquefcnrgta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B0082)]([https://www.linkedin.com/in/enrique-fernandes/](https://www.linkedin.com/in/enrique-fernandes-b21754217/))
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B0082)]([https://www.instagram.com/enrique/](https://www.instagram.com/enrique_fcnr/))
 
 <h3 align="left">My Stack ~</h3>
 
@@ -46,10 +46,10 @@ Sou apaixonado por desafios na área de tecnologia, sempre buscando aprimorar me
 <div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enrique-fernandes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4B0082&text_color=FFF&border_radius=3&border_color=36123c&icon_color=4B0082&theme=gruvbox" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enrique-fcnr&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4B0082&text_color=FFF&border_radius=3&border_color=36123c&icon_color=4B0082&theme=gruvbox" alt="GitHub stats">
 
-  <a href="https://github.com/enrique-fernandes/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enrique-fernandes&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4B0082&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  <a href="https://github.com/enrique-fcnr/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enrique-fcnr&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4B0082&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
