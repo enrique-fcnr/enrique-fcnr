@@ -18,8 +18,8 @@ Sou apaixonado por desafios na área de tecnologia, sempre buscando aprimorar me
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4B0082)](mailto:enriquefcnrgta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B0082)]([https://www.linkedin.com/in/enrique-fernandes/](https://www.linkedin.com/in/enrique-fernandes-b21754217/))
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B0082)]([https://www.instagram.com/enrique/](https://www.instagram.com/enrique_fcnr/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4B0082)]([https://www.linkedin.com/in/enrique-fernandes-b21754217/])
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4B0082)]([https://www.instagram.com/enrique_fcnr/])
 
 <h3 align="left">My Stack ~</h3>
 
