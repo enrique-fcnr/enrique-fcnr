@@ -25,7 +25,7 @@
 
 ---
 
-⭐ **"Buscando sempre evoluir e transformar ideias em soluções digitais."**
+ **"Buscando sempre evoluir e transformar ideias em soluções digitais."**
 
 
 <picture align="center">
