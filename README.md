@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-enriquefernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-fernandes-b21754217/)
 [![Instagram](https://img.shields.io/badge/Instagram-enrique__fcnr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enrique_fcnr/)
-[![Discord](https://img.shields.io/badge/Discord-enrqfrnds-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/enrqfrnds)
+[![Discord](https://img.shields.io/badge/Discord-enriquefcnr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/enriquefcnr)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%20(81)%2099613--6664-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996136664)
 [![Email](https://img.shields.io/badge/Email-enriquefcnrgta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquefcnrgta@gmail.com)
 
