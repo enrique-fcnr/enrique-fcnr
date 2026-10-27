@@ -1,110 +1,26 @@
 # Enrique Fernandes
 
-**Product Engineer | Backend & AI Products**
+**AI Engineer | LLM Apps, RAG & AI Agents | Backend**
 
-I build and ship AI-enabled digital products, with a strong focus on backend development, APIs, databases, integrations, automations and deployment.
+I build LLM applications end to end: agents, retrieval (RAG with pgvector), real-time voice and the backend that keeps them running in production.
 
-Currently working at **ShiftLabs**, where I contribute across engineering, product and growth — taking products from idea and technical definition to production.
+## Highlights
+- **Cut an AI agent's production response time by ~80%** (27-30 s → ~5 s) at ShiftLabs: traced the gap with local runs to cross-region round trips and co-located the database with the server.
+- **talk2urself** — real-time voice AI with long-term memory: OpenAI speech-to-text, streamed LLM replies, Cartesia speech over WebSocket, voice cloning (PT/EN) and a memory layer on PostgreSQL + pgvector. In production on AWS Lightsail with CI/CD on GitHub Actions. → [talk2urself.com](https://talk2urself.com)
+- **ONGSave** — food-rescue PWA built solo: surplus-food photos analyzed by a multimodal OpenAI model, transactional PostgreSQL functions with RLS and locks, Vitest + Playwright. **FIAP NEXT 2026 · 3rd place.** → [ongsave.vercel.app](https://ongsave.vercel.app)
+- **Alertaê** — extreme-weather alert app; led the front-end and built the AI chatbot in n8n (tool calling + LLM). **FIAP NEXT 2025 · 2nd place.**
 
-My long-term technical direction is **Backend & AI Engineering**, with a focus on building reliable AI systems on top of strong software engineering foundations.
+## Experience
+- **ShiftLabs** — Product Engineer, AI & Backend (May–Oct 2026): AI customer service platform (Cortex) and AI digital menu (Menux); LLM agent workflows, APIs, databases, integrations and deployment.
 
----
+## Stack
+TypeScript · Node.js (Fastify) · React · Next.js · PostgreSQL · Supabase · pgvector · OpenAI API · WebSockets · n8n · AWS · GitHub Actions · Vitest · Playwright
 
-## What I'm working on
-
-### ShiftLabs
-
-I currently contribute to products involving:
-
-- Backend systems and APIs
-- Databases and data modeling
-- Third-party integrations
-- Automations and internal workflows
-- Deployment and infrastructure
-- AI-enabled product features
-- Product strategy and technical decisions
-- Growth, acquisition and conversion tracking
-
-Some of the products I've worked on:
-
-**[Cortex](https://www.cortex.je)**  
-Multi-tenant AI-powered customer service platform.
-
-**[Menux](https://menux.co)**  
-AI-enabled digital menu platform focused on customer experience and commercial optimization.
-
----
-
-## Selected project
-
-### Alertae
-
-Emergency alert platform focused on accessibility and communication during critical situations.
-
-**2nd Place — FIAP Academic Project**
-
-Built as part of a team using technologies including React, JavaScript and Firebase.
-
-> Repository and project documentation available on my profile.
-
----
-
-## Technical focus
-
-**Languages**  
-TypeScript · JavaScript
-
-**Backend & Data**  
-REST APIs · Supabase · PostgreSQL · System Integrations · Automation
-
-**Frontend**  
-React
-
-**Infrastructure & Deployment**  
-Railway · Vercel · Runpod
-
-**AI & Product**  
-AI-enabled Products · AI-assisted Development · Product Engineering
-
----
-
-## Background
-
-Before moving deeper into software engineering, I worked with entrepreneurship, e-commerce and performance marketing.
-
-That background gives me practical experience with:
-
-- Product positioning
-- User behavior
-- Acquisition
-- Conversion
-- Funnel analysis
-- CAC
-- ROI
-- Data-driven decision-making
-
-Today, I bring that business context into software and product engineering.
-
----
+**Currently learning:** Python, FastAPI, LangGraph and LLM evaluation.
 
 ## Education
+B.S. in Software Engineering — FIAP (expected Aug 2028) · merit scholarship (3rd-highest grades in class)
 
-**Bachelor of Software Engineering — FIAP**  
-Aug 2024 — Expected Aug 2028
+**Languages:** Portuguese (native) · English (fluent) · Spanish (intermediate)
 
-Currently strengthening my foundations in software engineering, backend systems and AI engineering.
-
----
-
-## Languages
-
-- Portuguese — Native
-- English — Fluent
-- Spanish — Advanced
-
----
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/enrique-fernandes-b21754217/)  
-[Email](mailto:enriquefcnrgta@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/enrique-fernandes-b21754217) · recruitenrique@gmail.com
